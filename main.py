@@ -4,6 +4,6 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-print('main')
+print('not-main')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
